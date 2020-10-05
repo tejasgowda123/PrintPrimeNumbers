@@ -1,1 +1,1 @@
-To display first primary numbers ranging from 1 to 100
+To display primary numbers ranging from 1 to 100

@@ -11,7 +11,7 @@ int main()
       isPrime = isPrimeNumber(n);
 
       if(isPrime == true)
-         cout<<"n is"+n<<" ";
+         cout<<n<<"\t";
    }
    return 0;
 }

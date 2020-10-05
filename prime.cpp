@@ -6,12 +6,12 @@ int isPrimeNumber(int);
 int main()
 {
    bool isPrime;
-   for(int n = 2; n < 100; n++) {
+   for(int n = 2; n < 99; n++) {
       // isPrime will be true for prime numbers
       isPrime = isPrimeNumber(n);
 
       if(isPrime == true)
-         cout<<"n is"+n<<" ";
+         cout<<n<<"\t";
    }
    return 0;
 }

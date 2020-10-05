@@ -6,7 +6,7 @@ int isPrimeNumber(int);
 int main()
 {
    bool isPrime;
-   for(int n = 2; n < 100; n++) {
+   for(int n = 2; n < 50; n++) {
       // isPrime will be true for prime numbers
       isPrime = isPrimeNumber(n);
 
